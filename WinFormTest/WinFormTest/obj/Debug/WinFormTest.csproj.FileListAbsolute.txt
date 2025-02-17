@@ -1,0 +1,12 @@
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe.config
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\bin\Debug\WinFormTest.exe
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\bin\Debug\WinFormTest.pdb
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.AssemblyReference.cache
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\obj\Debug\WinFormTest.Form1.resources
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\obj\Debug\WinFormTest.Properties.Resources.resources
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.GenerateResource.cache
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\obj\Debug\WinFormTest.csproj.CoreCompileInputs.cache
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\obj\Debug\WinFormTest.exe
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\obj\Debug\WinFormTest.pdb
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\obj\Debug\WinFormTest.ThreadTest.resources
+C:\Users\jupeng\source\repos\WinFormTest\WinFormTest\obj\Debug\WinFormTest.ActionAndFuncTest.resources
